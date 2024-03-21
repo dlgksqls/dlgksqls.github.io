@@ -1,30 +1,47 @@
 ---
 layout: about
-title: About
+title: About me
 description: >
-  **Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.
-  It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility,
-  page-load speed or SEO.
 menu: true
 order: 4
 ---
+2019 ~ 계명대학교 컴퓨터공학전공 재학<br>
+2023&nbsp;&nbsp;&nbsp;&nbsp;계명대학교 네트워크 연구실 연구생 (Commnet)
+2023&nbsp;&nbsp;&nbsp;&nbsp;멋쟁이 사자처럼 동아리 전국 아이디어톤, 해커톤 참여
+<br><br><br>
+<a href = "https://hub.docker.com/u/leehb11">my dockerhub</a><br>
 
-**Hydejack** is the complete package for professionals on the web.
+## Project
+<a href = "https://github.com/Medi-eye/BE_Medieye">해커톤 (medieye)</a><br>
+<a href = "https://github.com/190000you/BE_AI_GO">캡스톤 (GO)</a>
+
+## Stack
+<a href = "https://www.python.org/">python</a><br>
+<a href = "https://www.djangoproject.com/">Django</a><br>
+<a href = "https://www.java.com/ko/">Java</a><br>
+<a href = "https://spring.io/">Spring</a><br>
+<a>c#</a><br>
+<a href = "https://www.oracle.com/kr/">Oracle</a><br>
+<a href = "https://www.postgresql.org/">Postgresql</a><br>
+<a href = "https://www.docker.com/">docker</a><br>
+<a href = "https://aws.amazon.com/ko/?nc2=h_lg">aws</a><br>
+
+<!-- **Hydejack** is the complete package for professionals on the web.
 It features a blog suitable for both prose and technical documentation,
-a showcase for your projects, and a resume that is well-integrated with the design.
+a showcase for your projects, and a resume that is well-integrated with the design. -->
 
-> Your presence on the web --- A [blog], a [portfolio] and a [resume].
-{:.lead}
+<!-- > Your presence on the web --- A [blog], a [portfolio] and a [resume].
+{:.lead} -->
 
-## Download
-There are two versions of **Hydejack**: The *free version* includes basic blogging functionality,
+<!-- ## Download -->
+<!-- There are two versions of **Hydejack**: The *free version* includes basic blogging functionality,
 as did previous versions of the theme.
 The *PRO version* includes additional features for professionals:
 A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
 
-This table details what is and isn't included in each respective version.
+This table details what is and isn't included in each respective version. -->
 
-|                                     | Free                                   | PRO                                          |
+<!-- |                                     | Free                                   | PRO                                          |
 |:------------------------------------|:--------------------------------------:|:--------------------------------------------:|
 | Blog                                | &#x2714;                               | &#x2714;                                     |
 | [Features][feat]                    | &#x2714;                               | &#x2714;                                     |
@@ -156,4 +173,4 @@ built-in support for [Tinyletter], and from element styles so you can build arbi
 [katex]: https://khan.github.io/KaTeX/
 [tinyletter]: https://tinyletter.com/
 
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations. -->
